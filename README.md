@@ -5,7 +5,7 @@
 
 **Contributors:** Mary Letey, John Letey, and Daniel Brown
 
-**Notes:** To get to our GitHub repository, go to this [website](https://github.com/maryletey/Derivatives-and-Securities-Research). For instructions on how to use our repository, go [here]().
+**Notes:** To get to our GitHub repository, go to this [website](https://github.com/maryletey/Derivatives-and-Securities-Research). For instructions on how to use our repository, go [here](https://github.com/maryletey/Derivatives-and-Securities-Research/blob/master/instructions.md).
 
 <!--For this project, we have a Jupyter Notebook `Daniel Brown Getting Data.ipynb` that gets our data every Monday, Wednesday, and Friday at 11:00 AM from [CBOE](http://www.cboe.com)-->
 
