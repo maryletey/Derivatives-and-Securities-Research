@@ -1,10 +1,10 @@
 # Instructions
 
-Please follow the below instructions to successfully use my repository.
+Please follow the below instructions to successfully use our repository.
 
 ## Cloning the repository
 
-To clone my repository, type the following command into a terminal
+To clone our repository, type the following command into a terminal
 
 ```sh
 git clone https://github.com/maryletey/Derivatives-and-Securities-Research.git
