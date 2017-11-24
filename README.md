@@ -3,4 +3,4 @@
 
 # Derivatives and Securities Research
 
-For this project, we have a Jupyter Notebook `Daniel Brown Getting Data.ipynb` that gets our data every Monday, Wednesday, and Friday at 11:00 AM from CBOE. This project covers multiple topics such as bid-ask spread analysis, risk and volatility, and trading strategies.
+For this project, we have a Jupyter Notebook `Daniel Brown Getting Data.ipynb` that gets our data every Monday, Wednesday, and Friday at 11:00 AM from [CBOE](http://www.cboe.com). This project covers multiple topics such as bid-ask spread analysis, risk and volatility, and trading strategies.
