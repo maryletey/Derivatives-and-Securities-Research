@@ -11,4 +11,4 @@
 
 Our data for this project was collected from the [CBOE](http://www.cboe.com). This project covers multiple topics such as bid-ask spread analysis, risk and volatility, and trading strategies.
 
-**Special Thanks:** A special thanks to John Letey for the great help he gave.
+**Special Thanks:** A special thanks to John Letey for the amazing help he gave.
